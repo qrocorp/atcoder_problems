@@ -10,7 +10,7 @@ else:
     print(abs(y - k))
 
 
-''' 
+'''
 
 while True:
     temp_y = y
